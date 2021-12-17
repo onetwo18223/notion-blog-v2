@@ -12,7 +12,7 @@ module.exports = {
   author: 'qhlb',
 
   // open graph metadata (optional)
-  description: '菜饼同学的技术博客',
+  description: 'qhlb的博客',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
