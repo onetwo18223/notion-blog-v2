@@ -395,7 +395,7 @@
 /* 自定义toggle 🐥 */
 
 .notion-toggle>summary::before {
-  content: "�";
+  content: "";
 }
 
 .notion-toggle[open]>summary::before{
