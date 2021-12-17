@@ -395,11 +395,11 @@
 /* 自定义toggle 🐥 */
 
 .notion-toggle>summary::before {
-  content: "🐣 点击展开";
+  content: "�";
 }
 
 .notion-toggle[open]>summary::before{
-  content: "🐥 点击收起";
+  content: "";
 }
 
 .notion-toggle>summary {
